@@ -46,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/aryanmishraa01/leetcode/tree/master/3903-smallest-stable-index-i) |
+## String
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/aryanmishraa01/leetcode/tree/master/3498-reverse-degree-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/aryanmishraa01/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
