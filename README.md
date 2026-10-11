@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aryanmishraa01/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/aryanmishraa01/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/aryanmishraa01/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/aryanmishraa01/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aryanmishraa01/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aryanmishraa01/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aryanmishraa01/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aryanmishraa01/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/aryanmishraa01/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/aryanmishraa01/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/aryanmishraa01/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Database
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/aryanmishraa01/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/aryanmishraa01/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/aryanmishraa01/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -110,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aryanmishraa01/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/aryanmishraa01/leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/aryanmishraa01/leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
