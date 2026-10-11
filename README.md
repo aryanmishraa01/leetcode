@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aryanmishraa01/leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/aryanmishraa01/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/aryanmishraa01/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aryanmishraa01/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aryanmishraa01/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aryanmishraa01/leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/aryanmishraa01/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/aryanmishraa01/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Database
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/aryanmishraa01/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/aryanmishraa01/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
