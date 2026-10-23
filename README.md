@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/aryanmishraa01/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/aryanmishraa01/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aryanmishraa01/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1732-find-the-highest-altitude](https://github.com/aryanmishraa01/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aryanmishraa01/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aryanmishraa01/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aryanmishraa01/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/aryanmishraa01/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [3903-smallest-stable-index-i](https://github.com/aryanmishraa01/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
